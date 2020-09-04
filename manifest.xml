@@ -47,7 +47,6 @@
   <project path="manifest" name="manifest" remote="pixel" />
   <project path="platform_testing" name="platform_testing" remote="pixel" />
   <project path="vendor/aosp" name="vendor_aosp" remote="pixel" />
-  <project path="vendor/gapps" name="vendor_gapps" remote="pixel-gitlab" clone-depth="1" />
   <project path="vendor/pixelstyle" name="vendor_pixelstyle" remote="pixel" />
   <project path="vendor/google-customization" name="vendor_google-customization" remote="pixel" />
 
@@ -93,7 +92,7 @@
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="pixel" />
 
   <!-- External repos -->
-  <project path="external/asus/stitchimage" name="external_asus_stitchimage" remote="pixel" revision="ten-plus" />
+  <project path="external/asus/stitchimage" name="external_asus_stitchimage" remote="pixel" />
   <project path="external/cldr" name="external_cldr" remote="pixel" />
   <project path="external/e2fsprogs" name="external_e2fsprogs" remote="pixel" />
   <project path="external/gptfdisk" name="external_gptfdisk" remote="pixel" />
@@ -101,7 +100,6 @@
   <project path="external/libcxx" name="external_libcxx" remote="pixel" />
   <project path="external/libhevc" name="external_libhevc" remote="pixel" />
   <project path="external/libtextclassifier" name="external_libtextclassifier" remote="pixel" />
-  <project path="external/motorola/faceunlock" name="external_motorola_faceunlock" remote="pixel-gitlab" />
   <project path="external/selinux" name="external_selinux" remote="pixel" />
   <project path="external/skia" name="external_skia" remote="pixel" />
   <project path="external/tinyalsa" name="external_tinyalsa" remote="pixel" />
