@@ -67,7 +67,6 @@
   <project path="hardware/qcom/sdm845/data/ipacfg-mgr" name="hardware_qcom_sdm845_data_ipacfg-mgr" remote="pixel" />
   <project path="hardware/ril" name="hardware_ril" remote="pixel" />
 
-
   <!-- Mediatek repos -->
   <project path="device/mediatek/sepolicy" name="device_mediatek_sepolicy" remote="pixel" />
   <project path="vendor/mediatek/opensource" name="vendor_mediatek-opensource" remote="pixel" />
@@ -107,6 +106,7 @@
   <project path="external/libcxx" name="external_libcxx" remote="pixel" />
   <project path="external/libhevc" name="external_libhevc" remote="pixel" />
   <project path="external/libtextclassifier" name="external_libtextclassifier" remote="pixel" />
+  <project path="external/motorola/faceunlock-res" name="external_motorola_faceunlock-res" remote="pixel" />
   <project path="external/selinux" name="external_selinux" remote="pixel" />
   <project path="external/skia" name="external_skia" remote="pixel" />
   <project path="external/sonivox" name="external_sonivox" remote="pixel" />
