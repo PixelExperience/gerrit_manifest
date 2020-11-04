@@ -42,7 +42,6 @@
   <project path="crowdin" name="crowdin" remote="pixel" />
   <project path="development" name="development" remote="pixel" />
   <project path="device/custom/sepolicy" name="device_custom_sepolicy" remote="pixel" />
-  <project path="device/mediatek/sepolicy" name="device_mediatek_sepolicy" remote="pixel" />
   <project path="gerrit_manifest" name="gerrit_manifest" remote="pixel" />
   <project path="manifest" name="manifest" remote="pixel" />
   <project path="platform_testing" name="platform_testing" remote="pixel" />
@@ -67,6 +66,11 @@
   <project path="hardware/qcom/sdm845/media" name="hardware_qcom_sdm845_media" remote="pixel" />
   <project path="hardware/qcom/sdm845/data/ipacfg-mgr" name="hardware_qcom_sdm845_data_ipacfg-mgr" remote="pixel" />
   <project path="hardware/ril" name="hardware_ril" remote="pixel" />
+
+
+  <!-- Mediatek repos -->
+  <project path="device/mediatek/sepolicy" name="device_mediatek_sepolicy" remote="pixel" />
+  <project path="vendor/mediatek/opensource" name="vendor_mediatek-opensource" remote="pixel" />
 
   <!-- Packages repos -->
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="pixel" />
