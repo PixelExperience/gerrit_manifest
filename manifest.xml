@@ -125,6 +125,7 @@
   <!-- External repos -->
   <project path="external/aac" name="external_aac" remote="pixel" />
   <project path="external/asus/stitchimage" name="external_asus_stitchimage" remote="pixel" />
+  <project path="external/boringssl" name="external_boringssl" remote="pixel" />
   <project path="external/cldr" name="external_cldr" remote="pixel" />
   <project path="external/e2fsprogs" name="external_e2fsprogs" remote="pixel" />
   <project path="external/freetype" name="external_freetype" remote="pixel" />
