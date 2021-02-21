@@ -59,6 +59,7 @@
   <project path="bootable/recovery" name="bootable_recovery" remote="pixel" />
   <project path="crowdin" name="crowdin" remote="pixel" />
   <project path="development" name="development" remote="pixel" />
+  <project path="external/lottie" name="external_lottie" remote="pixel" />
   <project path="device/custom/sepolicy" name="device_custom_sepolicy" remote="pixel" />
   <project path="gerrit_manifest" name="gerrit_manifest" remote="pixel" />
   <project path="manifest" name="manifest" remote="pixel" />
