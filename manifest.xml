@@ -67,7 +67,7 @@
   <project path="vendor/aosp" name="vendor_aosp" remote="pixel" />
   <project path="vendor/pixelstyle" name="vendor_pixelstyle" remote="pixel" />
   <project path="vendor/google-customization" name="vendor_google-customization" remote="pixel" />
-  <project path="vendor/support" name="vendor_support" remote="pixel" />
+  <project path="vendor/custom-preference" name="vendor_custom-preference" remote="pixel" />
 
   <!-- Hardware repos -->
   <project path="hardware/broadcom/libbt" name="hardware_broadcom_libbt" remote="pixel" />
