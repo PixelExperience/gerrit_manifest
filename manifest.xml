@@ -128,6 +128,7 @@
   <project path="hardware/qcom/sdm845/media" name="hardware_qcom_sdm845_media" remote="pixel" />
   <project path="hardware/qcom/wlan" name="hardware_qcom_wlan" remote="pixel" />
   <project path="hardware/ril" name="hardware_ril" remote="pixel" />
+  <project path="hardware/xiaomi" name="hardware_xiaomi" remote="pixel" />
 
   <!-- Mediatek repos -->
   <project path="device/mediatek/common" name="device_mediatek_common" remote="pixel" />
