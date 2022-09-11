@@ -216,6 +216,7 @@
   <project path="external/e2fsprogs" name="external_e2fsprogs" remote="pixel" />
   <project path="external/exfat" name="external_exfat" remote="pixel" />
   <project path="external/exfatprogs" name="external_exfatprogs" remote="pixel" />
+  <project path="external/expat" name="external_expat" remote="pixel" />
   <project path="external/freetype" name="external_freetype" remote="pixel" />
   <project path="external/gptfdisk" name="external_gptfdisk" remote="pixel" />
   <project path="external/guice" name="external_guice" remote="pixel" />
