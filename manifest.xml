@@ -111,6 +111,7 @@
   <project path="kernel/configs" name="kernel_configs" remote="pixel" />
   <project path="external/lottie" name="external_lottie" remote="pixel" />
   <project path="device/custom/sepolicy" name="device_custom_sepolicy" remote="pixel" />
+  <project path="device/google/cuttlefish" name="device_google_cuttlefish" remote="pixel" />
   <project path="gerrit_manifest" name="gerrit_manifest" remote="pixel" />
   <project path="manifest" name="manifest" remote="pixel" />
   <project path="libcore" name="libcore" remote="pixel" />
@@ -190,6 +191,7 @@
   <project path="packages/apps/Traceur" name="packages_apps_Traceur" remote="pixel" />
   <project path="packages/apps/Updates" name="packages_apps_Updates" remote="pixel" />
   <project path="packages/modules/adb" name="packages_modules_adb" remote="pixel" />
+  <project path="packages/modules/Bluetooth" name="packages_modules_Bluetooth" remote="pixel" />
   <project path="packages/modules/CaptivePortalLogin" name="packages_modules_CaptivePortalLogin" remote="pixel" />
   <project path="packages/modules/Connectivity" name="packages_modules_Connectivity" remote="pixel" />
   <project path="packages/modules/DnsResolver" name="packages_modules_DnsResolver" remote="pixel" />
@@ -270,6 +272,7 @@
   <project path="system/libhwbinder" name="system_libhwbinder" remote="pixel" />
   <project path="system/libufdt" name="system_libufdt" remote="pixel" />
   <project path="system/libziparchive" name="system_libziparchive" remote="pixel" />
+  <project path="system/logging" name="system_logging" remote="pixel" />
   <project path="system/media" name="system_media" remote="pixel" />
   <project path="system/netd" name="system_netd" remote="pixel" />
   <project path="system/nfc" name="system_nfc" remote="pixel" />
