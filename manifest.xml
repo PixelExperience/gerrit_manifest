@@ -112,6 +112,7 @@
   <project path="external/lottie" name="external_lottie" remote="pixel" />
   <project path="device/custom/sepolicy" name="device_custom_sepolicy" remote="pixel" />
   <project path="device/google/cuttlefish" name="device_google_cuttlefish" remote="pixel" />
+  <project path="device/samsung_slsi/sepolicy" name="device_samsung_slsi_sepolicy" remote="pixel" />
   <project path="gerrit_manifest" name="gerrit_manifest" remote="pixel" />
   <project path="manifest" name="manifest" remote="pixel" />
   <project path="libcore" name="libcore" remote="pixel" />
@@ -156,6 +157,7 @@
   <project path="hardware/qcom/wlan" name="hardware_qcom_wlan" remote="pixel" />
   <project path="hardware/ril" name="hardware_ril" remote="pixel" />
   <project path="hardware/samsung" name="hardware_samsung" remote="pixel" />
+  <project path="hardware/samsung_slsi/libbt" name="hardware_samsung_slsi_libbt" remote="pixel" />
   <project path="hardware/xiaomi" name="hardware_xiaomi" remote="pixel" />
 
   <!-- Mediatek repos -->
