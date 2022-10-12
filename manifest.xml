@@ -117,6 +117,7 @@
   <project path="manifest" name="manifest" remote="pixel" />
   <project path="libcore" name="libcore" remote="pixel" />
   <project path="platform_testing" name="platform_testing" remote="pixel" />
+  <project path="libcore" name="libcore" remote="pixel" />
   <project path="vendor/aosp" name="vendor_aosp" remote="pixel" />
   <project path="vendor/pixelstyle" name="vendor_pixelstyle" remote="pixel" />
   <project path="vendor/pixel-framework" name="vendor_pixel-framework" remote="pixel" />
