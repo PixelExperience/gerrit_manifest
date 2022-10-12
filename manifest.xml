@@ -217,6 +217,7 @@
   <project path="external/boringssl" name="external_boringssl" remote="pixel" />
   <project path="external/bson" name="external_bson" remote="pixel" />
   <project path="external/cldr" name="external_cldr" remote="pixel" />
+  <project path="external/dtc" name="external_dtc" remote="pixel" />
   <project path="external/connectivity" name="external_connectivity" remote="pixel" />
   <project path="external/e2fsprogs" name="external_e2fsprogs" remote="pixel" />
   <project path="external/exfat" name="external_exfat" remote="pixel" />
