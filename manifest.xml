@@ -223,6 +223,7 @@
   <project path="external/cldr" name="external_cldr" remote="pixel" />
   <project path="external/dtc" name="external_dtc" remote="pixel" />
   <project path="external/connectivity" name="external_connectivity" remote="pixel" />
+  <project path="external/dwarves" name="external_dwarves" remote="pixel" />
   <project path="external/e2fsprogs" name="external_e2fsprogs" remote="pixel" />
   <project path="external/exfat" name="external_exfat" remote="pixel" />
   <project path="external/exfatprogs" name="external_exfatprogs" remote="pixel" />
