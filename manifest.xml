@@ -220,6 +220,7 @@
 
   <!-- External repos -->
   <project path="external/aac" name="external_aac" remote="pixel" />
+  <project path="external/avb" name="external_avb" remote="pixel" />
   <project path="external/asus/stitchimage" name="external_asus_stitchimage" remote="pixel" />
   <project path="external/boringssl" name="external_boringssl" remote="pixel" />
   <project path="external/bson" name="external_bson" remote="pixel" />
