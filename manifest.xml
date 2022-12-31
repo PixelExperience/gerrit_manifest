@@ -164,6 +164,7 @@
   <project path="hardware/ril" name="hardware_ril" remote="pixel" />
   <project path="hardware/samsung" name="hardware_samsung" remote="pixel" />
   <project path="hardware/samsung_slsi/libbt" name="hardware_samsung_slsi_libbt" remote="pixel" />
+  <project path="hardware/st/nfc" name="hardware_st_nfc" remote="pixel" />
   <project path="hardware/xiaomi" name="hardware_xiaomi" remote="pixel" />
 
   <!-- Mediatek repos -->
