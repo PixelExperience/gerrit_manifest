@@ -118,6 +118,7 @@
   <project path="external/lottie" name="external_lottie" remote="pixel" />
   <project path="device/custom/sepolicy" name="device_custom_sepolicy" remote="pixel" />
   <project path="device/google/cuttlefish" name="device_google_cuttlefish" remote="pixel" />
+  <project path="device/google/contexthub" name="device_google_contexthub" remote="pixel" />
   <project path="device/samsung_slsi/sepolicy" name="device_samsung_slsi_sepolicy" remote="pixel" />
   <project path="gerrit_manifest" name="gerrit_manifest" remote="pixel" />
   <project path="manifest" name="manifest" remote="pixel" />
