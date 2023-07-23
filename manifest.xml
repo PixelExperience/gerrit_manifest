@@ -170,12 +170,8 @@
   <project path="hardware/xiaomi" name="hardware_xiaomi" remote="pixel" />
 
   <!-- Mediatek repos -->
-  <project path="device/mediatek/common" name="device_mediatek_common" remote="pixel" />
   <project path="device/mediatek/sepolicy_vndr" name="device_mediatek_sepolicy_vndr" remote="pixel" />
   <project path="device/mediatek/sepolicy_vndr" name="device_mediatek_sepolicy_vndr" remote="pixel" />
-  <project path="vendor/mediatek/ims" name="vendor_mediatek_ims" remote="pixel" />
-  <project path="vendor/mediatek/interfaces" name="vendor_mediatek_interfaces" remote="pixel" />
-  <project path="vendor/mediatek/opensource" name="vendor_mediatek-opensource" remote="pixel" />
 
   <!-- Packages repos -->
   <project path="packages/apps/Aperture" name="packages_apps_Aperture" remote="pixel" />
