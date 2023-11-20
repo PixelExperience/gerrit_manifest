@@ -221,6 +221,7 @@
   <project path="packages/modules/DnsResolver" name="packages_modules_DnsResolver" remote="pixel" />
   <project path="packages/modules/NetworkStack" name="packages_modules_NetworkStack" remote="pixel" />
   <project path="packages/modules/Permission" name="packages_modules_Permission" remote="pixel" />
+  <project path="packages/modules/StatsD" name="packages_modules_StatsD" remote="pixel" />
   <project path="packages/modules/Virtualization" name="packages_modules_Virtualization" remote="pixel" />
   <project path="packages/modules/Wifi" name="packages_modules_Wifi" remote="pixel" />
   <project path="packages/overlays/ThemeIcons" name="packages_overlays_ThemeIcons" remote="pixel" />
@@ -260,6 +261,7 @@
   <project path="external/libhevc" name="external_libhevc" remote="pixel" />
   <project path="external/libnfc-nxp" name="external_libnfc-nxp" remote="pixel" />
   <project path="external/libtextclassifier" name="external_libtextclassifier" remote="pixel" />
+  <project path="external/libxml2" name="external_libxml2" remote="pixel" />
   <project path="external/motorola/faceunlock-res" name="external_motorola_faceunlock-res" remote="pixel" />
   <project path="external/mksh" name="external_mksh" remote="pixel" />
   <project path="external/ntfs-3g" name="external_ntfs-3g" remote="pixel" />
@@ -296,6 +298,7 @@
   <project path="system/bpf" name="system_bpf" remote="pixel" />
   <project path="system/bt" name="system_bt" remote="pixel" />
   <project path="system/extras" name="system_extras" remote="pixel" />
+  <project path="system/ca-certificates" name="system_ca-certificates" remote="pixel" />
   <project path="system/core" name="system_core" remote="pixel" />
   <project path="system/hardware/interfaces" name="system_hardware_interfaces" remote="pixel" />
   <project path="system/incremental_delivery" name="system_incremental_delivery" remote="pixel" />
@@ -321,6 +324,7 @@
   <project path="system/vold" name="system_vold" remote="pixel" />
 
   <!-- Tools Repos -->
+  <project path="tools/apksig" name="tools_apksig" remote="pixel" />
   <project path="tools/extract-utils" name="tools_extract-utils" remote="pixel" />
   <project path="tools/metalava" name="tools_metalava" remote="pixel" />
  
